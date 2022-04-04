@@ -8,7 +8,7 @@ Web development is where my passion for learning, creating, and problem-solving 
 <a href="https://www.linkedin.com/in/manuelclairice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelclairice&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelclairice&layout=compact)](https://github.com/manuelclairice/github-readme-stats)
 <!--
 **manuelclairice/manuelclairice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
