@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Web development is where my passion for learning, creating, and problem-solving have come together.
 
 <h3 align="left">- 📫 How to reach me:</h3>
 <p align="left">
