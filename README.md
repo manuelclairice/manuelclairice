@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Web development is where my passion for learning, creating, and problem-solving have come together.
-
+- 🔭 I’m currently working on something awesome
 <h4 align="left">- 📫 How to reach me:</h4>
 <p align="left">
 <a href="https://twitter.com/manuel_clairice" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
