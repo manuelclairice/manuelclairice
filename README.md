@@ -2,9 +2,9 @@
 
 Web development is where my passion for learning, creating, and problem-solving are coming together.
 
-- 🔭 I’m currently working on **something awesome**
+- 🔭 I’m currently working on something awesome
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning Next.Js, PostgreSQL, TypeScript...
 
 - 📫 How to reach me **manuel.clairice@gmail.com**
 
