@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Manuel</h1>
 
-Web development is where my passion for learning, creating, and problem-solving have come together.
+Web development is where my passion for learning, creating, and problem-solving are coming together.
 
 - 🔭 I’m currently working on **something awesome**
 
