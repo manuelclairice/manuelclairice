@@ -6,8 +6,6 @@ Web development is where my passion for learning, creating, and problem-solving 
 
 - 🌱 I’m currently learning Next.Js, PostgreSQL, TypeScript amongst others.
 
-- 📫 How to reach me **manuel.clairice@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manuelclairice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelclairice" height="30" width="40" /></a>
