@@ -4,7 +4,7 @@ Web development is where my passion for learning, creating, and problem-solving 
 
 - 🔭 I’m currently working on something awesome
 
-- 🌱 I’m currently learning Next.Js, PostgreSQL, TypeScript...
+- 🌱 I’m currently learning Next.Js, PostgreSQL, TypeScript amongst others.
 
 - 📫 How to reach me **manuel.clairice@gmail.com**
 
