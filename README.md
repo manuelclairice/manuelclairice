@@ -4,7 +4,7 @@ Web development is where my passion for learning, creating, and problem-solving 
 
 - 🔭 I’m currently working on something awesome
 
-- 🌱 I’m currently learning Next.Js, PostgreSQL, TypeScript amongst others.
+- 🌱 I’m currently learning Vue.js, Nuxt.js amongst others.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
